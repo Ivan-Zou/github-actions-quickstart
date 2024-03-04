@@ -1,3 +1,3 @@
 # github-actions-quickstart
-Practice using GitHub Actions
-Ivan Zou
+### Practice using GitHub Actions
+ Ivan Zou
